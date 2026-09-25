@@ -13,6 +13,7 @@ pathspec==1.1.1
 pillow==12.3.0
 platformdirs==4.11.13
 psycopg2==2.9.13
+PyJWT==2.15.0
 pytokens==0.4.1
 PyYAML==6.0.3
 requests==2.34.2
